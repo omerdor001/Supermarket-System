@@ -1,0 +1,1 @@
+A Supermarket Management System is a software application designed to manage and automate the day-to-day operations of a supermarket. It streamlines various tasks such as inventory management, billing, stock control, customer management, and reporting. The system helps ensure efficient operation, improves customer service, and reduces manual workload for staff.
